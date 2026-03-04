@@ -1,8 +1,20 @@
-# React + Vite
+# React Post Viewer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React app that fetches Users from a public API and displays them in a responsive UI.
 
-Currently, two official plugins are available:
+## Features
+- Fetch data from API
+- Loading & error handling
+- Responsive design
+- Clean UI with reusable components
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
+- React
+- Vite
+
+## API Used
+https://jsonplaceholder.typicode.com/users
+
+## Run Locally
+npm install  
+npm run dev
