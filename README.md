@@ -1,4 +1,4 @@
-# React Post Viewer
+# React Users Data
 
 A simple React app that fetches Users from a public API and displays them in a responsive UI.
 
